@@ -1,0 +1,60 @@
+/* Write your CSS here */
+.bg {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Bree Serif';
+
+}
+.dark-bg{
+    background-color: #07080c;
+}
+
+.light-bg {
+    background-color: #e4e6ec;
+}
+
+.cart {
+    width: 60vW;
+    text-align: center;
+    padding: 20px;
+}
+.dark-cart {
+    background-color: aliceblue;
+}
+
+.light-cart {
+    background-color: rgb(4, 8, 12);
+}
+
+.head {
+    font-size: 32px;
+}
+
+.dark-head {
+    color: black;
+}
+
+.light-head {
+    color: rgb(247, 245, 245);
+}
+
+.btn {
+    border-radius: 10px;
+    padding: 5px 20px;
+    font-size: 16px;
+}
+
+.dark-btn {
+    color: black;
+    border: 2px solid black;
+}
+
+.dark-btn {
+    color: white;
+    border: 2px solid white;
+    background-color: black;
+}
+
